@@ -1,5 +1,5 @@
 # Emart
-An e-commerce website demo made in react.
+An e-commerce website demo made in React.
 
 Download the repository and open the folder (where you dowloaded the repo) in terminal.
 
