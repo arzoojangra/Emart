@@ -1,0 +1,71 @@
+.header {
+  padding: 20px 20px;
+  color: white;
+  background-color: rgb(87, 1, 87);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.emart-logo img {
+  width: 100%;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.header h1 {
+  display: flex;
+  align-items: center;
+  margin: inherit;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu button {
+  display: flex;
+  padding: 8px;
+  width: fit-content;
+  border: 1px solid white;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  color: black;
+  align-items: center;
+  font-size: 19px;
+}
+
+.menu button:hover {
+  background-color: rgb(180, 123, 180);
+}
+
+.login-menu {
+  display: flex;
+}
+
+.login-menu button {
+  display: flex;
+  padding: 8px;
+  border: 1px solid white;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  color: black;
+  align-items: center;
+  font-size: medium;
+}
+
+.login-menu button:hover {
+  background-color: rgb(180, 123, 180);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.active {
+  color: purple;
+  font-weight: bolder;
+}

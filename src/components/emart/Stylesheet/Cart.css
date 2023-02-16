@@ -1,0 +1,66 @@
+.cart {
+  background-color: rgba(235, 195, 235, 0.5);
+  padding: 50px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.item-lists {
+  background-color: rgba(235, 195, 235, 0.8);
+  display: flex;
+  padding: 20px;
+  border: 1px solid purple;
+  border-radius: 10px;
+  margin: 15px auto;
+}
+
+.item-image img {
+  width: 250px;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+.item-desc {
+  width: calc(100% - 270px);
+  margin-left: 0;
+}
+
+.cart-title {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.cart-desc {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.cart-buttons {
+  width: auto;
+  height: 30px;
+  padding: 2px;
+  font-size: medium;
+  font-weight: bold;
+  border: 1px black solid;
+  border-radius: 8px;
+  margin-right: 20px;
+  background-color: white;
+}
+
+.cart-buttons:hover {
+  background-color: black;
+  color: white;
+}
+
+.total {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.cart-empty {
+  font-size: 40px;
+  font-weight: bold;
+  min-height: 300px;
+}

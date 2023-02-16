@@ -1,0 +1,18 @@
+.footer {
+  padding: 8px;
+  color: white;
+  background-color: rgb(87, 1, 87);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer img {
+  border-radius: 5px;
+}
+
+.footer-condtn p {
+  margin: 5px;
+  padding: 0;
+  text-align: center;
+}
