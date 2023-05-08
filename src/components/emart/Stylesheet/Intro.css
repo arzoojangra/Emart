@@ -1,7 +1,7 @@
 .background {
   background-image: url("https://img.freepik.com/free-photo/joyful-girl-with-curly-brown-hair-dancing-purple-background-with-kissing-face-expression_197531-7071.jpg?w=900&t=st=1675321954~exp=1675322554~hmac=5f24776fd47ab05496dcaaee5d78d69104646767936547ce8b273ee722d51d2e");
   background-size: cover;
-  padding: 70px;
+  padding: 100px;
   display: flex;
   flex-direction: column;
 }
@@ -9,7 +9,7 @@
 .background h1 {
   font-size: 60px;
   font-weight: normal;
-  width: 60%;
+  width: 55%;
   margin: 0;
 }
 
@@ -22,5 +22,5 @@
   font-weight: lighter;
   font-size: 35px;
   margin-top: 20px;
-  width: 60%;
+  width: 50%;
 }
