@@ -9,4 +9,4 @@ npm install
 Later run- 
 npm start
 
-The site must load on localhost3000.
+The site must load on localhost:3000.
