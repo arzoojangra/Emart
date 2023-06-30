@@ -13,6 +13,10 @@ function Products(props) {
     });
   }, []);
 
+  if (product.length === 0) {
+    return <div className="product-background loader">Loading...</div>;
+  }
+
   return (
     <div className="product-background">
       <div className="heading">Products</div>

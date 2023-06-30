@@ -3,6 +3,11 @@
   min-height: 300px;
 }
 
+.loader {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
 .heading {
   text-align: center;
   font-size: 50px;
